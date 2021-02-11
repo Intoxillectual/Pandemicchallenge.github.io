@@ -27,6 +27,7 @@ Syntax highlighted code block
 [Link](src) and ![Image](src)
 ```
 [Link](https://chart-studio.plotly.com/~stutigarg9/5/#/)
+[Graph](<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~stutigarg9/1.embed"></iframe>)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
