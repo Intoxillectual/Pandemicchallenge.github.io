@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/Intoxillectual/Pandemicchallenge.github.io/blob/main/index) and ![Image](src)
+[Link](https://plotly.com/~stutigarg9/5/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
