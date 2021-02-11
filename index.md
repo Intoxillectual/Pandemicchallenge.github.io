@@ -24,9 +24,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://plotly.com/~stutigarg9/5/) and ![Image](src)
+[Link](src) and ![Image](src)
 ```
-
+![Image](https://chart-studio.plotly.com/~stutigarg9/5/#/)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
