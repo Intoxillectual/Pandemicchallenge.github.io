@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Covid-Xprize Pandemic Challenge
 
-You can use the [editor on GitHub](https://github.com/Intoxillectual/Pandemicchallenge.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This demo illustrates the non-pharmaceutical interventions (NPIs) that the AI generates for different countries and regions over time, their predicted effect. 
+Currently the data shows about the cases in India.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/Intoxillectual/Pandemicchallenge.github.io/blob/main/index.html) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
