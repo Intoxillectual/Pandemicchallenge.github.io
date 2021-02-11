@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 [Link](src) and ![Image](src)
 ```
-![Image](https://chart-studio.plotly.com/~stutigarg9/5/#/)
+[Link](https://chart-studio.plotly.com/~stutigarg9/5/#/)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
